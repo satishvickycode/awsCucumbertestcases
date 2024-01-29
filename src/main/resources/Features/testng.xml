@@ -1,0 +1,9 @@
+
+<suite name="TestNG" verbose="1">
+	<test name="TestCuke">
+		<classes>
+			<class name="org.example.driverScript.CucumberRunner">
+			</class>
+		</classes>
+	</test>
+</suite>
